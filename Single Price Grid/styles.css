@@ -99,6 +99,18 @@ body {
     font-family: Karla;
 }
 
+.bottom-container-left > button:hover {
+    width: 100%;
+    color: white;
+    padding: 4% 0;
+    background-color: hsl(71, 73%, 46%);
+    border: 0px solid black;
+    border-radius: 5px;
+    font-family: Karla;
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
 .bottom-container-right > h3 {
     color: white; 
     font-weight: 700;
